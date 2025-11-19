@@ -1,4 +1,9 @@
 {
     "node_id.148:8": "and",
-    "node_id.148:9": "or"
+    "node_id.148:9": "or",
+    "node_id.125:2": "year",
+    "node_id.125:3": "monday",
+    "node_id.126:4": "tuesday",
+    "node_id.126:5": "wednesday",
+    "node_id.130:6": "book"
 }
